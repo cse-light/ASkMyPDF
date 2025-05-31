@@ -1,0 +1,8 @@
+Flask
+python-dotenv
+openai
+PyMuPDF
+Werkzeug
+gunicorn
+pytesseract
+Pillow
